@@ -38,3 +38,4 @@ print(num8,num7)
 num8,num7,num4,num3,num5=70,60,50,40,50
 print(num7,num5,num8,num4,"num3")
 print("num3:",num8)
+print()  hy
