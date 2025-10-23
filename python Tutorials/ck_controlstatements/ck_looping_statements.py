@@ -29,7 +29,7 @@ while count < 5: # condition
     count+=1 #increment
     '''
     
-count = 5
-while count > 0:
+count = 5 #initial condition
+while count > 0: #condition
     print("Hello World!")
-    count-=1
+    count-=1 #decrement
